@@ -29,6 +29,11 @@ A cybersecurity awareness training module created in PowerPoint and PDF format.
 - Interactive quiz section
 
 📂 Folder: `Task_2_Phishing_Awareness_Training/`
+## ✅ Task 1: Basic Network Sniffer
+📌 Folder: [Task 1 - Basic Network Sniffer](Task_1_Basic_Network_Sniffer)
+
+## ✅ Task 2: Phishing Awareness Training
+📌 Folder: [Task 2 - Phishing Awareness Training](Task_2_Phishing_Awareness_Training)
 
 ---
 
