@@ -33,5 +33,5 @@ A cybersecurity awareness training module created in PowerPoint and PDF format.
 ---
 
 ## 👨‍💻 Author
-**Irfan Ramzan**  
+**Irfan csh**  
 Cybersecurity Intern @ CodeAlpha
