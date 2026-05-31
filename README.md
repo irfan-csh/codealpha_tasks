@@ -71,7 +71,7 @@ A Network Intrusion Detection System (NIDS) built using Suricata on Ubuntu Linux
 * Automated Response Script
 * Alert Monitoring Logs
 
-📂 Folder: `CodeAlpha_Network_IDS/`
+📂 Folder: `Network_IDS/`
 
 ---
 
@@ -92,5 +92,5 @@ A Network Intrusion Detection System (NIDS) built using Suricata on Ubuntu Linux
 
 ### Author
 
-**Irfan Ramzan**
+**Irfan csh**
 Cybersecurity Intern | CodeAlpha
