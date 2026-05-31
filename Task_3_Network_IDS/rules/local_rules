@@ -1,0 +1,10 @@
+lert icmp any any -> any any (msg:"ICMP Ping Detected"; sid:1000001; rev:1;) 
+alert tcp any any -> any any (msg:"Possible Port Scan Detected"; flags:S; 
+threshold:type threshold, track by_src, count 20, seconds 10; sid:1000002; 
+rev:1;) 
+alert tcp any any -> any 22 (msg:"SSH Connection Attempt Detected"; 
+sid:1000003; rev:1;) 
+alert tcp any any -> any 80 (msg:"HTTP Traffic Detected"; sid:1000004; 
+rev:1;) 
+alert tcp any any -> any 23 (msg:"Telnet Connection Attempt Detected"; 
+sid:1000005; rev:1;)
