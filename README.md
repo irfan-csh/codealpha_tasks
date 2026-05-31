@@ -29,11 +29,9 @@ A cybersecurity awareness training module created in PowerPoint and PDF format.
 - Interactive quiz section
 
 📂 Folder: `Task_2_Phishing_Awareness_Training/`
-## ✅ Task 1: Basic Network Sniffer
-📌 View Project: https://github.com/irfan-csh/codealpha_tasks/tree/main/Task_1_Basic_Network_Sniffer
 
 ---
 
 ## 👨‍💻 Author
-**Irfan Ramzan**  
+**Irfan csh**  
 Cybersecurity Intern @ CodeAlpha
