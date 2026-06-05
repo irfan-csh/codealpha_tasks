@@ -28,5 +28,3 @@ This project was developed as part of the **CodeAlpha Cybersecurity Internship P
 - CLI Based (Terminal Tool)
 
 ---
-
-## 📂 Project Structure
