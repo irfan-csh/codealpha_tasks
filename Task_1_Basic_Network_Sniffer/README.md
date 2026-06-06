@@ -28,3 +28,23 @@ This project was developed as part of the **CodeAlpha Cybersecurity Internship P
 - CLI Based (Terminal Tool)
 
 ---
+
+## 📚 Learning Outcomes
+
+Through the development of this project, I gained practical experience in:
+
+- Understanding packet sniffing concepts and network traffic analysis.
+- Capturing and analyzing live network packets using the Scapy library.
+- Working with TCP, UDP, and ICMP protocols and their packet structures.
+- Extracting source and destination IP addresses, ports, protocol information, and payload data.
+- Implementing protocol, IP, and port-based packet filtering techniques.
+- Analyzing TCP flags and packet behavior for security monitoring purposes.
+- Building interactive Command-Line Interface (CLI) applications in Python.
+- Generating network traffic statistics and security-focused reports.
+- Applying packet analysis techniques used in Security Operations Center (SOC) environments.
+- Improving Python programming, debugging, and cybersecurity automation skills.
+- Understanding how packet sniffing supports threat detection, network troubleshooting, and incident investigation.
+
+### 🎓 Internship Learning
+
+This project strengthened my understanding of network protocols, packet analysis, traffic monitoring, and the practical application of Python in cybersecurity and network security operations.
